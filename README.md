@@ -30,13 +30,13 @@ To analyze the cleaned data and create visualizations to gain insights into the 
 **Tools**
 
 - **Power BI**: A business analytics tool used for data visualization by creating Dashboards.
-![Screenshot 2024-07-14 112513](https://github.com/user-attachments/assets/9cfc8900-81dd-4ac2-ad24-0cfd5272e4f4)
+
 
 
 ![Screenshot 2024-07-14 112526](https://github.com/user-attachments/assets/090d3a2e-d3f8-4122-b4fa-825eb259ae97)
 
 
-![Screenshot 2024-07-14 112617](https://github.com/user-attachments/assets/9674e7db-7043-407d-b4a7-0d7e60573735)
+
 
 
 ![Screenshot 2024-07-14 112719](https://github.com/user-attachments/assets/1afe3bee-8bab-4475-abf9-464a25b6a2a9)
